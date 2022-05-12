@@ -35,7 +35,7 @@ __Qase.io__
 
 ## Examples of my work
 
-### Test cases and work in Qase.io
+### Test cases and work in Google Sheets
 - [The training webshop](https://www.saucedemo.com/) was used to create demo test cases (Sauce Demo)
    * Test case for checking valid Userid Login. Check [the Project here](https://docs.google.com/spreadsheets/d/1MtOasumDAcI5_2ctWpd9MNwLu0LAMfwSYHfc3iPtpOA/edit?usp=sharing)
    * Test case for checking invalid Userid Login. Check [the Project here](https://docs.google.com/spreadsheets/d/1tD7DqNO7pQX1jFroYjrv2Yx_Euzxcbb_jap3CLailM4/edit?usp=sharing)
