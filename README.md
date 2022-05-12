@@ -36,7 +36,7 @@ __Qase.io__
 ## Examples of my work
 
 ### Test cases and work in Qase.io
-- [The training webshop](https://www.saucedemo.com/) was used to create demo test cases
+- [The training webshop](https://www.saucedemo.com/) was used to create demo test cases (Sauce Demo)
    * Test case for checking the Authentication and Functional Test. Check [the Project here]
 (https://app.qase.io/project/SD)
    
