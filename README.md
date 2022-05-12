@@ -39,5 +39,6 @@ __Qase.io__
 - [The training webshop](https://www.saucedemo.com/) was used to create demo test cases (Sauce Demo)
    * Test case for checking valid Userid Login. Check [the Project here](https://docs.google.com/spreadsheets/d/1MtOasumDAcI5_2ctWpd9MNwLu0LAMfwSYHfc3iPtpOA/edit?usp=sharing)
    * Test case for checking invalid Userid Login. Check [the Project here](https://docs.google.com/spreadsheets/d/1tD7DqNO7pQX1jFroYjrv2Yx_Euzxcbb_jap3CLailM4/edit?usp=sharing)
-   * Test case for checking Logout from the Web Apss. Check [the Project here](https://docs.google.com/spreadsheets/d/1imTcI4qRavo3aaaBIwWNntwX-YVE6ETTtg-L8oFqmv8/edit?usp=sharing)
+   * Test case for checking Logout from the Web Apps. Check [the Project here](https://docs.google.com/spreadsheets/d/1imTcI4qRavo3aaaBIwWNntwX-YVE6ETTtg-L8oFqmv8/edit?usp=sharing)
+   * Test case for checking of Checkout at Web Apps. Check [the Project here](https://docs.google.com/spreadsheets/d/17Q6P1NNWszXwNPeA-MYntTuoN21opa9tKkBI_5CwO68/edit?usp=sharing)
    
